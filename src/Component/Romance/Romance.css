@@ -1,0 +1,19 @@
+.roman{
+    color: whitesmoke;
+    padding-left: 50px;
+}
+.Img3{
+    margin-left: 10px;
+    height: 180px;
+    width: 250px;
+    margin-bottom: 50px;
+    margin-right: auto ;
+    padding-top: 50px;
+}
+.Img3:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 0.1s;
+}
+.rom{
+   padding-left: 70px; 
+}

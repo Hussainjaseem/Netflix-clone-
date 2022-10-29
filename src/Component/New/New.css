@@ -1,0 +1,18 @@
+.newname{
+    color: whitesmoke;
+    padding-left: 50px;
+}
+.sf{
+    padding-left: 70px;
+}
+.Img5{
+    margin-left: 10px;
+    height: 180px;
+    width: 250px;
+    margin-bottom: 50px;
+    margin-right: auto ;
+    padding-top: 50px;
+}
+.Img5:hover{
+    transform: scale(1.2);
+}

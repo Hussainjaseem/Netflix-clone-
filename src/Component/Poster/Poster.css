@@ -1,0 +1,18 @@
+.PostMainDiv{
+    padding-left: 70px;
+    color: whitesmoke;
+}
+
+.Img1{
+    margin-left: 10px;
+    height: 180px;
+    width: 250px;
+    margin-bottom: 50px;
+    margin-right: auto ;
+    padding-top: 50px;
+}
+.Img1:hover{
+    transform: scale(1.2);
+
+    
+}

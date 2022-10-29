@@ -1,0 +1,20 @@
+.mar{
+    color: whitesmoke;
+    padding-left: 50px;
+}
+.Img4{
+    margin-left: 10px;
+    height: 180px;
+    width: 250px;
+    margin-bottom: 50px;
+    margin-right: auto ;
+    padding-top: 50px;
+}   
+.marv{
+    padding-left: 70px;
+
+}
+.Img4:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 0.1s;
+}
